@@ -5,3 +5,4 @@ python-dotenv>=1.0,<2
 streamlit-geolocation==0.0.10
 streamlit-autorefresh>=1.0,<2
 pydub>=0.25,<1
+audioop-lts>=0.2.2; python_version >= "3.13"
